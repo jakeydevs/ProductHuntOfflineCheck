@@ -6,9 +6,9 @@ A very cool way of seeing what was popular in the past, but didn't survive!
 
 ## Installation
 
-> $ cp .env.example .env
-> $ composer install && npm install
-> \$ npm run prod (dev)
+- $ cp .env.example .env
+- $ composer install && npm install
+- $ npm run prod (dev)
 
 You need an application code from product hunt to run this - you can get that from https://api.producthunt.com/v2/oauth/applications
 
